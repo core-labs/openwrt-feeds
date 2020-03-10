@@ -12,5 +12,5 @@ cd /path/to/openwrt
 2. Add this repo into the feed configureation file:
 
 ```bash
-echo "src-git core-labs https://github.com/core-labs/openwrt-feeds.git" >> feeds.conf.default
+echo "src-git corelabs https://github.com/core-labs/openwrt-feeds.git" >> feeds.conf.default
 ```
