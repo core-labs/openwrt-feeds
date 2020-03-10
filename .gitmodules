@@ -1,3 +1,6 @@
 [submodule "luci/themes/luci-theme-argon"]
 	path = luci/themes/luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "luci/applications/luci-app-clash"]
+	path = luci/applications/luci-app-clash
+	url = https://github.com/frainzy1477/luci-app-clash.git
