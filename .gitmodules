@@ -4,6 +4,6 @@
 [submodule "luci/applications/luci-app-clash"]
 	path = luci/applications/luci-app-clash
 	url = https://github.com/frainzy1477/luci-app-clash.git
-[submodule "packages/openvm-tools"]
-	path = packages/openvm-tools
+[submodule "packages/utils/openvm-tools"]
+	path = packages/utils/openvm-tools
 	url = https://github.com/srchack/custom-packages.git
