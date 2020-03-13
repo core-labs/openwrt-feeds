@@ -4,3 +4,9 @@
 [submodule "luci/applications/luci-app-clash"]
 	path = luci/applications/luci-app-clash
 	url = https://github.com/frainzy1477/luci-app-clash.git
+[submodule "luci/applications/luci-app-baidupcs-web"]
+	path = luci/applications/luci-app-baidupcs-web
+	url = https://github.com/KFERMercer/luci-app-baidupcs-web.git
+[submodule "package/openwrt-baidupcs-web"]
+	path = package/openwrt-baidupcs-web
+	url = https://github.com/KFERMercer/openwrt-baidupcs-web.git
